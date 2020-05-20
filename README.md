@@ -1,4 +1,4 @@
-# gerador_dados
+# Gerador de Dados
 Código em Python(óbvio) que cria dados para preenchimento no PostgreSQL
 
 Criei esse código, pois na faculdade foi solicitado que fizessemos 50 inserts em uma tabela de banco de dados, como acho isso inviável e um trabalho chato para humanos, criei um gerador em python para me auxiliar nessa árdua tarefa.
